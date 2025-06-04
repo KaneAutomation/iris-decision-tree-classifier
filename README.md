@@ -1,6 +1,9 @@
 # iris-decision-tree-classifier
 
-This project demonstrates a simple classification model using the Iris dataset and a Decision Tree algorithm in Python.
+This project explores a supervised machine learning solution using the classic Iris dataset.  
+I built a decision tree classifier using Python, Pandas, and scikit-learn to predict flower species from petal and sepal measurements.  
+This is part of my AI coursework for Purdue Global (IN400).
+
 
 ## 📊 Dataset
 The dataset used (`iris.data.txt`) contains measurements for 150 iris flowers from three species:
